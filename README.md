@@ -13,4 +13,4 @@ There are two silimar licenses in this repo:
 - Standard license [file](LICENSE)
 
 ## Usage
-Feel free to use this in any project you want. This is an open license. It was originally made for Vuelto to use.
+Feel free to use this in any project you want. This is an open license. It was originally made for Vuelto to use, but feel free to use it yourself.
