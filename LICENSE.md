@@ -1,23 +1,23 @@
-Vuelto License V1
+**Vuelto License V1**
 
-This software is licensed under the terms of the GNU General Public License version 3 except as noted below.
+This software is licensed under the terms of the [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html) except as noted below.
 
-1. Primary License
+**1. Primary License**
 
-This software is licensed under the terms of the GNU General Public License version 3 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This software is licensed under the terms of the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-2. Condition for License Change
+**2. Condition for License Change**
 
 The software shall be deemed "unmaintained" if any of the following conditions are met:
 - The project repository has been archived or set to read-only.
 - The project has been officially pronounced as "dead" by the original maintainer(s) or the designated project governance body.
 - No code commits have been made to the project's main repository for a continuous period of 1.5 years (18 months).
 
-3. Fallback License
+**3. Fallback License**
 
 If the software is determined to be unmaintained as per the conditions above, the license for the software automatically changes to the MIT License as follows:
 
----------------------------------------------------------------------------
+```
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -37,8 +37,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-----------------------------------------------------------------------------
+```
 
-4. Interpretation
+**4. Interpretation**
 
 The decision on whether the software is unmaintained will be made by the original maintainer(s) or the designated project governance body, if any. In the absence of such a body, the community of contributors may reach a consensus according to the project's documented processes.
