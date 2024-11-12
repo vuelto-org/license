@@ -12,11 +12,14 @@ This software is licensed under the terms of the [GNU General Public License ver
 
 "_The maintainer(s)_" refers to the original maintainer(s) of The software, or the designated project governance body for The software.
 
-"_The main repository_" refers to the repository where most of The software's development occurs, and/or where the primary source code of The software itself is hosted (not meaning that other code repositories that are directly linked to the project are to be excluded by the terms of the Vuelto License).
+“_The source code_” refers to any piece of source code, including but not limited to scripts, computer code, and compiled binaries, that is directly associated with The software.
+
+
+"_The main repository_" refers to the repository where most of The software's development occurs, and/or where The source code of The software itself (or at least it’s primary / most important parts) is hosted, _not_ implying that other code repositories that are directly linked to the project are to be excluded by the terms of the Vuelto License.
 
 ## **1. Primary License**
 
-The software is, by default, licensed under the terms of the main license unless otherwise specified, as the license of the software can change under the conditions outlined by **Sections 2 and 3** of the Vuelto License.
+The software is, by default, licensed under the terms of the main license unless otherwise specified, as the license of The software can change under the conditions outlined by **Sections 2 and 3** of the Vuelto License.
 
 ## **2. Condition for License Change**
 
@@ -27,7 +30,7 @@ The software shall be deemed "unmaintained" if any of the following conditions a
 
 ## **3. Fallback License**
 
-If the software is determined to be unmaintained as per the conditions above, the license for the software automatically changes to the MIT License as follows:
+If The software is determined to be unmaintained as per the conditions above, the license for The software automatically changes to the MIT License as follows:
 
 ```txt
 MIT License
@@ -53,7 +56,7 @@ SOFTWARE.
 
 ## **4. Interpretation**
 
-The decision on whether the software is unmaintained will be made by the original maintainer(s) or the designated project governance body, if any. In the absence of such a body, the community of contributors may reach a consensus according to the project's documented processes.
+The decision on whether The software is unmaintained will be made by the original maintainer(s) or the designated project governance body, if any. In the absence of such a body, the community of contributors may reach a consensus according to the project's documented processes.
 
 ## **5. Communication of License change**
 
@@ -80,5 +83,10 @@ The following extensions, with their content available at the end of this Licens
 
 ### **A. Copyright on Artwork**
 
-Any artwork associated with the software, including but not limited to logos, icons, and other visual assets, is copyrighted and licensed under the terms of the Primary License (GNU GPLv3 or later). However, if the software license changes to the MIT License under the conditions outlined in **Section 3**, this copyright on artwork no longer applies, and the artwork is included under the MIT License.
+Any artwork associated with The software, including but not limited to logos, icons, and other visual assets, is copyrighted and licensed under the terms of the Primary License (GNU GPLv3 or later). However, if The software license changes to the MIT License under the conditions outlined in **Section 3**, this copyright on artwork no longer applies, and the artwork is included under the MIT License.
+
+
+### **B. Copyright on Code**
+
+The source code is copyrighted and licensed under the terms of the Primary License (GNU GPLv3 or later). However, if The software license changes to the MIT License under the conditions outlined in **Section 3**, this copyright on The source code no longer applies, and The source code is included under the MIT License.
 <!-- END VL-C 1.1 ONLY -->
